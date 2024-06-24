@@ -27,4 +27,4 @@
 
 ##
 
-![snake animation](https://github.com/<Silva-Lacerda>/<Silva-Lacerda>/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/Silva-Lacerda/Silva-Lacerda/blob/output/github-contribution-grid-snake.gif)

@@ -5,7 +5,6 @@
 - 📫 Contate-me pelo email: alenildojose454@gmail.com
 
 <div>
-  <a href="https://beacons.ai/Silva-Lacerda"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Silva-Lacerda&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silva-Lacerda&layout=compact&theme=radical"/>
 </div>

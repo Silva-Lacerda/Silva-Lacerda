@@ -1,7 +1,7 @@
 ## Olá! Eu sou José Silva
 
 
-- 🌱 Estudo Análise e Desenvolvimento de Sistemas
+- 🌱 Estudo Análise e Desenvolvimento de Sistemas ( 2° Semestre )
 - 📫 Contate-me pelo email: alenildojose454@gmail.com
 
 <div>

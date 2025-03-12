@@ -50,6 +50,7 @@ Conclui o curso técnico de Análise e Desenvolvimento de Sistemas pela Etec da 
     style = "padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
     />
+<p>
 <img
     align ="left"
     alt = "HTML"
@@ -75,3 +76,4 @@ Conclui o curso técnico de Análise e Desenvolvimento de Sistemas pela Etec da 
     style = "padding-right: 10px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silva-Lacerda&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4"
 />
+</p>

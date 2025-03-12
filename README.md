@@ -1,16 +1,77 @@
-## Hi there 👋
+# 👨🏽‍💻 José Alenildo
 
-<!--
-**Silva-Lacerda/Silva-Lacerda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Front-End´**
 
-Here are some ideas to get you started:
+Me chamo José Alenildo, tenho 21 anos e sou natural de São Paulo.
+Conclui o curso técnico de Análise e Desenvolvimento de Sistemas pela Etec da minha cidade. Atualemnte estou cursando ADS novamente com nível de graduação pela FAM. Sou fascinado por tecnologia e busco sempre aprimorar meus conhecimentos no ramo da programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+      <a href="https://github.com/Silva-Lacerda?tab=followers">
+         <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Silva-Lacerda?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
+         <a href="https://github.com/Silva-Lacerda?tab=repositories&sort=stargazers">
+         <img alt="Total de estrelas" title="Total estrelas no Github" src="https://custom-icon-badges.demolab.com/github/stars/Silva-Lacerda?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/></a>
+      <a href="https://www.linkedin.com/in/jos%C3%A9-lacerda-0084bb232/">
+         <img alt="Linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=ffffff&style=for-the-badge&labelColor=dcdcdc&label=Linkedin&logo=linkedinm"/></a>
+</p>
+
+   ---
+
+### 🤖 Linguagens e Tecnologias
+   
+<img
+        align ="left"
+        alt = "HTML"
+        title = "HTML"
+        width = "30px"
+        style = "padding-right: 10px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img
+        align ="left"
+        alt = "HTML"
+        title = "HTML"
+        width = "30px"
+        style = "padding-right: 10px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
+/>
+<img
+    align ="left"
+    alt = "HTML"
+    title = "HTML"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img
+    align ="left"
+    alt = "HTML"
+    title = "HTML"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+    />
+<img
+    align ="left"
+    alt = "HTML"
+    title = "HTML"
+    width = "30px"
+    style = "padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+### 📊 Estatísticas
+<img
+    align ="left"
+    alt = "GitHub Stats"
+    height = "200px"
+    style = "padding-right: 10px"
+    src="https://github-readme-stats.vercel.app/api?username=Silva-Lacerda&show_icons=true&theme=tokyonight&include_all_commits-true&locale=pt-br"
+/>
+
+<img
+    align ="left"
+    alt = "GitHub Stats"
+    height = "200px"
+    style = "padding-right: 10px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silva-Lacerda&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4"
+/>

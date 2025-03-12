@@ -68,7 +68,7 @@ Conclui o curso técnico de Análise e Desenvolvimento de Sistemas pela Etec da 
 <img
     align ="left"
     alt = "GitHub Stats"
-    height = "200px"
+    height = "200"
     style = "padding-right: 10px"
     src="https://github-readme-stats.vercel.app/api?username=Silva-Lacerda&show_icons=true&theme=tokyonight&include_all_commits-true&locale=pt-br"
 />
@@ -76,7 +76,7 @@ Conclui o curso técnico de Análise e Desenvolvimento de Sistemas pela Etec da 
 <img
     align ="left"
     alt = "GitHub Stats"
-    height = "200px"
+    height = "200"
     style = "padding-right: 10px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silva-Lacerda&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4"
 />

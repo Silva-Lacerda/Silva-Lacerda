@@ -59,6 +59,9 @@ Conclui o curso técnico de Análise e Desenvolvimento de Sistemas pela Etec da 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
+<br/>
+<br/>
+
 ### 📊 Estatísticas
 
 <p>

@@ -64,7 +64,7 @@ Conclui o curso técnico de Análise e Desenvolvimento de Sistemas pela Etec da 
 
 ### 📊 Estatísticas
 
-
+<p>
 <img
     align ="left"
     alt = "GitHub Stats"
@@ -79,3 +79,4 @@ Conclui o curso técnico de Análise e Desenvolvimento de Sistemas pela Etec da 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silva-Lacerda&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"
 />
 
+</p>

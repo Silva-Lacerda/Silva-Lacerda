@@ -10,8 +10,6 @@ Conclui o curso técnico de Análise e Desenvolvimento de Sistemas pela Etec da 
          <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Silva-Lacerda?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
          <a href="https://github.com/Silva-Lacerda?tab=repositories&sort=stargazers">
          <img alt="Total de estrelas" title="Total estrelas no Github" src="https://custom-icon-badges.demolab.com/github/stars/Silva-Lacerda?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/></a>
-      <a href="https://www.linkedin.com/in/jos%C3%A9-lacerda-0084bb232/">
-         <img alt="Linkedin" title="Linkedin" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=ffffff&style=for-the-badge&labelColor=dcdcdc&label=Linkedin&logo=linkedinm"/></a>
 </p>
 
    ---
